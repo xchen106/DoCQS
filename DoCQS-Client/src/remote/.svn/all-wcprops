@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/myproject/!svn/ver/122/EntityRank/src/remote
+END
+PatternStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/PatternStream.java
+END
+DataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/DataItem.java
+END
+DocumentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/DocumentStream.java
+END
+Example.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/Example.java
+END
+SendPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/SendPost.java
+END
+TextTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/TextTokens.java
+END
+QueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myproject/!svn/ver/122/EntityRank/src/remote/QueryHandler.java
+END
