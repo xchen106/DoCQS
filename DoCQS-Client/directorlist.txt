@@ -1,0 +1,1518 @@
+Sven Taddicken
+Jim Drake
+Kundan Shah
+Janusz Kamiński
+Don Hahn
+Alain Resnais
+John English
+Atom Egoyan
+Kim Sang-jin
+Leonel Vieira
+Mel Ferrer
+Jane Anderson
+Alison Murray
+Shashanka Ghosh
+Tibor Takács
+Henry Hathaway
+Singeetam Srinivasa Rao
+Gaylene Preston
+Patrice Leconte
+Stanley Tong
+Zhang Yimou
+Tobe Hooper
+Carl Gottlieb
+Robinson Devor
+H. Bruce Humberstone
+William C. Thomas
+Buichi Saito
+Arnold Laven
+Jim Jarmusch
+Julian Fellowes
+George B. Seitz
+Jeremy Leven
+Clyde Bruckman
+Ian Iqbal Rashid
+Eric Valette
+Gianfranco Baldanello
+Brent Maddock
+John P.Aguirre
+Andy Tennant
+Paul Demeyer
+James Whale
+Alex Smith
+Wolfgang Reitherman
+Joe Russo
+Bahman Ghobadi
+Shyam Benegal
+Prachya Pinkaew
+Jessy Terrero
+Joseph Sargent
+Henry Levin
+King Vidor
+Jan Svěrák
+Henry King
+Bob Kline
+Burt Kennedy
+Lukas Moodysson
+Denys Arcand
+William Cameron Menzies
+Koji Shima
+Toshio Masuda
+Sam Weisman
+Manish Jha
+Jay Roach
+Terry O. Morse
+George Dunning
+Rebecca Miller
+Ken Kwapis
+Hart Bochner
+Russell Holt
+Wayne Berwick
+Benjamin Christensen
+Sergei Eisenstein
+H. C. Potter
+Mark Sandrich
+Henry Blanke
+Steve Box
+Gina Prince-Bythewood
+Adoor Gopalakrishnan
+Waris Hussein
+Mikhail Doller
+Eric Bernt
+Andrew Bujalski
+Anne Heche
+Julien Duvivier
+James Gartner
+Nikita Mikhalkov
+Shigetsugu Yoshida
+Frank Tashlin
+Will Swenson
+Lo Wei
+Michael Schultz
+Francesco Rosi
+John Farrow
+Vilgot Sjöman
+Curtis Bernhardt
+Richard Dutcher
+Bob Gale
+Phillip Noyce
+Irwin Winkler
+Çağan Irmak
+Curt Siodmak
+Elia Kazan
+Ray Nazarro
+Tom Hanks
+Lawrence Kasdan
+William Peter Blatty
+Dominique Deruddere
+F. W. Murnau
+Russell Mulcahy
+Joel Zwick
+Martin Gabel
+Howard Deutch
+Mark Rydell
+Rob Reiner
+Tetsuya Nakashima
+Joseph Castelo
+Brian Robbins
+James Lapine
+Arthur Penn
+Takashi Miike
+Oliver Schmitz
+James Algar
+Mary Lambert
+Michael Jenkins
+Vincenzo Natali
+Robert Wise
+Paul Weitz
+William Castle
+Mike deSeve
+Robert Bolt
+Huner Saleem
+Andrew V. McLaglen
+Rachel Talalay
+David Mirkin
+Gregory Nava
+Amando de Ossorio
+Jim Kouf
+Dariush Mehrjui
+James Wong
+Lewis Gilbert
+Lewis Allen
+H. B. Halicki
+Shane Black
+Norman Tokar
+Dick Richards
+Richard Benjamin
+Doug Lefler
+Gary Nelson
+Béla Tarr
+Jean-Jacques Annaud
+David L. Corley
+James Gray
+John Badham
+Matt Cooper
+Guy Hamilton
+Doug McHenry
+K. Bhagyaraj
+Priyadarshan
+Carl Boese
+Michael Lehmann
+Lawrence Guterman
+Jessie Nelson
+Boris Sagal
+Stanley Kubrick
+Byron Haskin
+Karan Johar
+Scott Allen
+Kurt Voss
+John Singleton
+Andrea Arnold
+Seijun Suzuki
+Jennifer Jason Leigh
+Jonathan Frakes
+Pedro Almodóvar
+Michael Steinberg
+Yoshimitsu Banno
+Martha Coolidge
+Jack Clayton
+Mark Osborne
+Gaëtan Brizzi
+Rob Marshall
+Michael Chapman
+Stig Bergqvist
+Woody Allen
+Larry Cohen
+Madhur Bhandarkar
+George Mihalka
+Robert Dalva
+Christopher Cain
+Kazuki Ōmori
+Phil Karlson
+Robert Mitchum
+Wayne Wang
+Sergio Sollima
+Lal Jose
+Bob Cormack
+Stuart Heisler
+Baltasar Kormákur
+Josh Stolberg
+Alain Berliner
+Lewis Milestone
+Gregor Schnitzler
+Richard E. Cunha
+John Roberts
+John Sturges
+Ryuhei Kitamura
+Pat O'Connor
+Archie Mayo
+Sidney Franklin
+Bill Melendez
+K. S. Ravikumar
+Kim Sung-su
+Peter MacDonald
+Feng Xiaogang
+Seth Holt
+Brad Silberling
+Philip Kaufman
+Gene Fowler, Jr.
+Allan Dwan
+Leo McCarey
+Robert Siodmak
+Arjun Sablok
+Giuseppe Tornatore
+Vikraman
+George Armitage
+Henry Cornelius
+Stanley Donen
+Christopher Guest
+Sohail Khan
+Roger Donaldson
+John Gilling
+Saran
+Kenji Mizoguchi
+John McTiernan
+Daisuke Nishio
+Rawson Marshall Thurber
+Norman Maurer
+Shin Jeong-won
+Dale Launer
+Richard Donner
+Alf Sjöberg
+Blair Hayes
+Ravikant Nagaich
+Charles Reisner
+James Kerwin
+Ben Elton
+Daniel Petrie
+Abel Ferrara
+Bruno Barreto
+Tsui Hark
+George Stevens
+Richard Shepard
+Richard Attenborough
+John Cleese
+Kit Hood
+John Boorman
+David Cronenberg
+Fred Olen Ray
+Joseph Zito
+Elmar Klos
+Gary Weis
+Nicholas Ray
+Rainer Werner Fassbinder
+Clint Eastwood
+David Dhawan
+John Schlesinger
+Simon Wincer
+Rouben Mamoulian
+Charles Lamont
+Danny Cannon
+Vic Dal Chele
+Walter Bernstein
+Terry George
+Chuck Sheetz
+Don Bluth
+Lina Wertmüller
+Hugh Wilson
+David Lane
+Shinya Tsukamoto
+David E. Durston
+John Madden
+Rolfe Kanefsky
+Roberto Rossellini
+Lamberto Bava
+Amy Heckerling
+Mitsuo Hashimoto
+Scott Hicks
+Paul Sabella
+Joseph Anthony
+Akira Kurosawa
+Edward Bernds
+Michael Caton-Jones
+Tom Tykwer
+Frank Darabont
+Chris Ver Wiel
+Sidney Lumet
+Dan O'Bannon
+Kari Skogland
+Shohei Imamura
+Bruno Podalydès
+Larry Fessenden
+Peter Faiman
+Kevin Smith
+John Hughes
+Neil Jordan
+Isabel Coixet
+Peter Paige
+Burny Mattinson
+Todd Phillips
+Conrad Vernon
+Jeeva
+Asif Kapadia
+Vincent Ward
+Albert Finney
+Jean-Paul Rappeneau
+Tad Stones
+Les Mayfield
+John van Bruggen
+Bruce Robinson
+Bob Hoskins
+Roland Emmerich
+James Glickenhaus
+Virginie Despentes
+Alexander Hall
+Vittorio De Sica
+Penny Marshall
+Mimi Leder
+Elie Chouraqui
+Bille Woodruff
+Christian Carion
+Martin Scorsese
+Agnes Hranitzky
+Kevin Costner
+Zalman King
+Glenn Jordan
+Takeshi Kitano
+Terry Sanders
+Irving Cummings
+Paul Bartel
+Ansar Kalabhavan
+Sooraj Barjatya
+Marshall Neilan
+Kim Ki-duk
+Nathan Todd Sims
+Eli Dunn
+Nicholaus Goossen
+P. J. Hogan
+Frank Lloyd
+Oxide Pang Chun
+Michael Goldenberg
+Richard Loncraine
+Danny Leiner
+Marleen Gorris
+Nick Lyon
+David Butler
+Damien O'Donnell
+Chen Kaige
+Robert Scheerer
+Éric Rohmer
+David Twohy
+Luis Buñuel
+Nathan Smith Jones
+Richard LaGravenese
+Rob Bowman
+Mel Welles
+Bill Forsyth
+Oz Scott
+Hur Jin-ho
+Richard Fleischer
+Nagisa Oshima
+Michele Soavi
+W.A. Gibson
+Charles Barton
+George Roy Hill
+Charles Stone III
+Mickey Moore
+Gillies MacKinnon
+Joseph McGinty Nichol
+James Frawley
+Troy Miller
+Rick Jacobson
+Nick Doob
+Robert Bierman
+Vincent Kok
+Sanjay Gadhvi
+Fabián Bielinsky
+Brian Mulroney
+Andrei Tarkovsky
+Pixote Hunt
+John Kent Harrison
+Yoshiaki Kawajiri
+Kiyoshi Kurosawa
+Garry Marshall
+Chuck Jones
+Nathan H. Juran
+John Hough
+Edward James Olmos
+Paul Sorvino
+André de Toth
+Ang Lee
+Toby Ross
+Mike Nawrocki
+Steve Carr
+Billy Hopkins
+Robert Towne
+Sam Wood
+Marshall Lewy
+Roger Corman
+Motonori Sakakibara
+Rajkumar Hirani
+Isao Takahata
+Jonathan Demme
+Forest Whitaker
+Anthony Russo
+Nick Willing
+Brian Trenchard-Smith
+Alberto De Martino
+Miranda July
+Joel Coen
+James Orr
+Eriq La Salle
+Jerome Robbins
+Gilbert Adler
+Dino Risi
+Alejandro González Iñárritu
+Allison Anders
+Lenny Wong
+Jasmila Žbanić
+Nora Ephron
+Ray Enright
+George Miller
+Dominic Zapata
+Betty Thomas
+Robert Day
+Bruce W. Smith
+Agnieszka Holland
+Elmer Clifton
+Richard Quine
+Ritwik Ghatak
+Kamal Tabrizi
+Nick Giannopoulos
+Callie Khouri
+Andrea Bianchi
+Basu Chatterjee
+Gordon Chan
+Jack Hill
+Claude Chabrol
+Jacques Demy
+Ken Annakin
+Stephen Surjik
+LeVar Burton
+Sydney Pollack
+Wai Man Yip
+Greg Spence
+Federico Fellini
+Jim Abrahams
+Brian Helgeland
+Roscoe Arbuckle
+Kasi Lemmons
+Gary O. Bennett
+Charles Shyer
+Chuck Russell
+Richard Dembo
+Rick Famuyiwa
+William Wyler
+Corey Yuen
+Larry Morey
+Charles Tait
+Stan Lathan
+Vincent Sherman
+Mark Joffe
+Wilfred Jackson
+P. J. Pesce
+Vondie Curtis-Hall
+Buster Keaton
+Alfred J. Goulding
+Shawn Levy
+Uwe Boll
+Takao Okawara
+Anatole Litvak
+Jack Curtis
+Rachid Bouchareb
+Jaume Balagueró
+Cecil B. DeMille
+Mike Hodges
+Stephen Hopkins
+Lee Sholem
+Elio Petri
+Steve Bendelack
+Takashi Nakamura
+Hal Ashby
+Don Coscarelli
+Victor Fleming
+Irving Rapper
+Maximilian Schell
+Paul Czinner
+Joe Romersa
+Iain Softley
+Krzysztof Zanussi
+Tunç Başaran
+Steven Zaillian
+Dwayne Carey-Hill
+Laurie Lynd
+Martin Gabler
+Donald Petrie
+Tom Shadyac
+Robby Henson
+John R. Leonetti
+Jordan Galland
+Bruce McCulloch
+Matt Checkowski
+Nick Cassavetes
+Charles Burnett
+Pantelis Voulgaris
+Michael Herz
+Terry Bourke
+Edvin Laine
+Billy Ray
+Nicole Kassell
+Mike Newell
+Geoffrey Wright
+Cheran
+Alex Cox
+David S. Ward
+Malcolm D. Lee
+Stephen Hillenburg
+Thom Fitzgerald
+Hong Sang-soo
+Tony Kaye
+Luchino Visconti
+Abbas Burmawalla
+Luis Puenzo
+David Giancola
+Alexander Witt
+Franc Roddam
+Sylvain Chomet
+Zak Penn
+Herbert Biberman
+Kristi Zea
+John Henderson
+Raúl Ruiz
+Martín De Salvo
+Lino Brocka
+Yahoo Serious
+Gérard Depardieu
+Marco Bechis
+Thomas Carter
+Hamilton Luske
+Michael Hurst
+Rob Minkoff
+Alejandro Jodorowsky
+Kevin Lima
+Robert Redford
+Don Weis
+Richard Brooks
+David Von Ancken
+Marc Forster
+Irvin Kershner
+Vijay Anand
+George Lucas
+Mervyn LeRoy
+Ilya Maksimov
+Leon Ichaso
+Jang Joon-hwan
+Nicolas Gessner
+Jack Donohue
+William Dieterle
+John McNaughton
+Ted Kotcheff
+Stephen Chow
+Harald Zwart
+Siddharth Anand
+Greg Beeman
+Bud Yorkin
+Sadao Yamanaka
+Alvin Ganzer
+Benoît Poelvoorde
+Darren Grant
+Ben Stiller
+Ronald F. Maxwell
+Darnell Martin
+Sylvester Stallone
+Cary Medoway
+Frank Miller
+Otto Preminger
+David Fincher
+Alan Brown
+David Kellogg
+Hal Hartley
+Arthur Lubin
+Charles Laughton
+Félix Sabroso
+Tommy Lee Jones
+Andrew Adamson
+Jean Negulesco
+Brian Gilbert
+William Cottrell
+Pradip Krishen
+Sean McNamara
+Laurent Cantet
+Lee Unkrich
+Wu Chia Hsiang
+John Milius
+Ingmar Bergman
+Steve Oedekerk
+Busby Berkeley
+Kunihiko Yuyama
+Randa Haines
+Tom Dey
+Todd Haynes
+Poj Arnon
+Jonathan Kaplan
+Rich Thorne
+Yoo Ha
+Geoff Bennett
+Mike Figgis
+Michael Radford
+Jesús Franco
+Leonid Gaidai
+Satyajit Ray
+Jamie Babbit
+Tom McGowan
+Jay Woelfel
+Yuan Muzhi
+Steven Spielberg
+Edward Burns
+Otto Brower
+Jean Girault
+Karel Reisz
+David O. Russell
+Joel Schumacher
+François Truffaut
+Rod Daniel
+Stephen Carpenter
+Phil Mendez
+Stanley Tucci
+Frank Perry
+Andrew Fleming
+Jeff Lieberman
+Tim Cox
+Clyde Geronimi
+Steve Purcell
+Esteban Sapir
+Mel Brooks
+Satoshi Kon
+Paul Wegener
+Robert Iscove
+Ronny Yu
+Jerry Zucker
+Robert Aldrich
+Ron Howard
+Howard Morris
+René Clair
+William Witney
+Jack Perez
+Billy Wilder
+Robert Cormack
+Michael Winterbottom
+Vincente Minnelli
+Richard Linklater
+Luis Estrada
+Prawaal Raman
+John Musker
+Jeroen Krabbé
+James Isaac
+Shigeyasu Yamauchi
+Harry Lachman
+Nancy Meyers
+Elvin Ross
+Matthias X. Oberg
+Martin Kunert
+Anurag Kashyap
+Menahem Golan
+Jules Dassin
+Jeff Pollack
+Kevin Connor
+Samson Chiu
+Subodh Mukherjee
+Richard Kletter
+Richard Lester
+Irving Pichel
+Robert Shaye
+Bryan Singer
+Emmanuel Benbihy
+Bobby Ciraldo
+Mark Pellington
+Roger Kumble
+Kelly Asbury
+Ken Loach
+Oliver Stone
+Scott Frank
+James Mangold
+Charles T. Kanganis
+Mikhail Kalatozov
+Simon West
+Peter Baldwin
+Sterling Van Wagenen
+Othello Khanh
+Pavel Lungin
+Brian Gibson
+Anthony Asquith
+William Keighley
+Kevin Williamson
+John R. Cherry III
+Peter Medak
+Gordon Hessler
+Mani Ratnam
+Don Siegel
+F. Hugh Herbert
+Jeff Anderson
+Thomas Vinterberg
+Bob Dolman
+Lee Tamahori
+Andrei Konchalovsky
+Luis Mandoki
+Michael Oblowitz
+Nicholas Hytner
+Eric Goldberg
+Jim McBride
+Dominic Sena
+Charles Sturridge
+Jonathan Prince
+John Nicolella
+Erle C. Kenton
+Cory McAbee
+Bobby Roth
+James Cameron
+Peter Kosminsky
+Nancy Savoca
+Bert I. Gordon
+Bobby Farrelly
+Shakti Samanta
+Paul Schneider
+Rick Rosenthal
+Melville Shavelson
+Alan Bunce
+Ted Wilde
+Ketan Mehta
+Mark Waters
+Alex Proyas
+James Ivory
+Bernard McEveety
+Edmund Goulding
+Noriaki Yuasa
+Dale Schott
+Edgar Kennedy
+Kinji Fukasaku
+Marcus Nispel
+Jackie Chan
+William K. Howard
+Lionel C. Martin
+Charles Kerr
+Norman Taurog
+Albert Pyun
+Nicholas Meyer
+Wojciech Jerzy Has
+Barbara Dourmashkin
+Gurinder Chadha
+Chris Hegedus
+Aleksandr Ptushko
+Matthew Robbins
+Howard Hawks
+Frédéric Auburtin
+Mekhi Phifer
+Sandip Ray
+Clarence Brown
+Henry Koster
+Ernst Lubitsch
+Stuart Rosenberg
+David O. Selznick
+Yash Chopra
+Edward F. Cline
+Boaz Yakin
+Curt Geda
+Brad Anderson
+Mary Harron
+Andrzej Wajda
+Mike Judge
+Ralph Thomas
+Gregory Hoblit
+Jackie Cooper
+Fred Dekker
+Lasse Hallström
+Charles Grosvenor
+C. V. Sridhar
+Robert Moore
+D. A. Pennebaker
+Yoshiyuki Kuroda
+Robert Benton
+Freddie Francis
+John Hamburg
+Terry Gilliam
+Roy Andersson
+Danis Tanović
+Kurt Mattila
+Martin Ritt
+Gianfranco Parolini
+Sidney Olcott
+Rafe M. Portilo
+George McCowan
+Danny Boyle
+Fred Guiol
+David Miller
+Tommy Chong
+Karen Moncrieff
+Ernest B. Schoedsack
+Toyoo Ashida
+Philip Charles MacKenzie
+Andrew J. Smith
+Guy Maddin
+Mike Barker
+S. Ramanathan
+Brian K. Roberts
+Ida Lupino
+James Signorelli
+Peyton Reed
+Edward A. Blatt
+Millard Johnson
+Roger Spottiswoode
+Gerardo Herrero
+Chris Weitz
+Blair Treu
+Mark A. Reyes
+Graham Baker
+Jang Gyu-seong
+John Gray
+Charles Vidor
+Delmer Daves
+Mike Leigh
+Larry Jacobs
+Sara Sugarman
+Robert Fuest
+Mike Clattenburg
+Joe Dante
+Merian C. Cooper
+Tage Danielsson
+Mira Nair
+Jackie Kong
+Ben Sharpsteen
+Peter Bogdanovich
+Michael Lembeck
+Billy Crystal
+Masahiro Shinoda
+Josef von Sternberg
+Nick Park
+Emilio Maillé
+Carlos Carrera
+Joseph H. Lewis
+Wes Craven
+Fran Rubel Kuzui
+Sidney Gilliat
+Jonathan M. Parisen
+Byung-cheon Min
+Bob Kelljan
+John M. Stahl
+J. Lee Thompson
+Marc Rocco
+Jack Kinney
+Louis Leterrier
+Michael Tuchner
+Peter Yates
+Kevin Spacey
+Michelangelo Antonioni
+Vikram Bhatt
+Peter Chan
+Vincent Gallo
+Dave McLaughlin
+Stephen Sommers
+Jeffrey Porter
+Donna Deitch
+Will Hay
+James Clavell
+Vasili Pichul
+Steve Buscemi
+André Bonzel
+David DeCoteau
+Tony Richardson
+Francis Glebas
+Sachin Bhowmick
+Marcus Adams
+Stanley Kramer
+Mike Nichols
+Vidhu Vinod Chopra
+Radley Metzger
+Alan Alda
+Jack Bender
+Peter Richardson
+Ridley Scott
+Bruce Beresford
+Bronwen Hughes
+David Wain
+Christopher Erskin
+Ed Wood
+Pete Walker
+Tay Garnett
+Jack Hively
+N. T. Rama Rao
+Tonino Valerii
+Antonio Margheriti
+Ronald Neame
+Krzysztof Kieślowski
+Paul Thomas Anderson
+Adam Bhala Lough
+Ettore Scola
+Randhir Kapoor
+Cheon Se-hwan
+Anthony Simmons
+Randal Kleiser
+S. Shankar
+Cristina Comencini
+Ana Clavell
+Daniel Lee
+Mahesh Bhatt
+Dave Meyers
+Mark Dornford-May
+Manmohan Desai
+Larry Charles
+J. P. Dutta
+William Asher
+Warren Beatty
+Nikos Perakis
+Olivier Assayas
+Michael Cooney
+Jan de Bont
+Alan Arkin
+Peter Greenaway
+Raj Kanwar
+David Hand
+Christopher Menaul
+Tim Burton
+James Foley
+Marco Brambilla
+Kirk Wong
+Edward Buzzell
+Spike Lee
+Timur Bekmambetov
+Wang Xiaoshuai
+Walter Hill
+Angela Robinson
+Caroline Link
+Gene Wilder
+Jafar Panahi
+D. J. Caruso
+Ferzan Özpetek
+Pier Paolo Pasolini
+Miloš Forman
+Alan Rudolph
+David M. Evans
+Marcos Siega
+Ethan Coen
+Martyn Burke
+Christian Duguay
+André Téchiné
+Kim Dong-bin
+Peter Markle
+Arthur Hiller
+Emeric Pressburger
+Tyler Perry
+Yuichi Abe
+Mark Robson
+David Peoples
+Beth Schacter
+Robert Altman
+Bob Clark
+Keenen Ivory Wayans
+Daniel De La Vega
+David S. Goyer
+Nikhil Advani
+Andy Cadiff
+Chris Columbus
+Richard Kelly
+David Zucker
+Jonathan Liebesman
+Samuel Fuller
+Sam Peckinpah
+Ana Kokkinos
+Ron Underwood
+Bob Fosse
+Antoine Fuqua
+Jacques Tourneur
+Christopher Doyle
+Partho Sen-Gupta
+Frank Launder
+Nevill Coghill
+Don Edmonds
+Polly Draper
+Sergio Leone
+Basil Dearden
+Rajkumar Santoshi
+Maurice Tourneur
+Michael Landon, Jr.
+Gerald Potterton
+Gene Nelson
+Park Young-hoon
+Ruggero Deodato
+Raj Kapoor
+Ade Edmondson
+Santosh Sivan
+José Cottinelli Telmo
+B. Reeves Eason
+Ernest R. Dickerson
+Michael Apted
+Richard Spence
+Frank Capra
+Simon Wells
+Ib Melchior
+John Dahl
+Danny Pang Phat
+Stuart Gordon
+Catherine Breillat
+Pen-Ek Ratanaruang
+Bernard Rose
+Peter Brook
+Peter Horton
+Mario Bava
+Lucio Fulci
+Rémy Belvaux
+Eldar Ryazanov
+Greg Glienna
+Steve Miner
+John Stainton
+Peter Webber
+Colin Trevorrow
+Cristian Nemescu
+Jerry Lewis
+Lisa Cholodenko
+Claude Lelouch
+Herbert Ross
+John Laing
+Marco Bellocchio
+Mamoru Oshii
+Shekhar Kapur
+Roy Del Ruth
+Bo Welch
+Rudolph Maté
+Andrew Stanton
+Giuliano Montaldo
+David Lean
+Fred Schepisi
+Rospo Pallenberg
+Adam Rifkin
+Mike Fallows
+Gabriel Friedman
+Mario Caiano
+Alan Cumming
+Mick Jackson
+Buddy Van Horn
+Vadim Perelman
+David Dobkin
+Barry Sonnenfeld
+Robert Harling
+John Huston
+Michel Gondry
+Ernie Barbarash
+Gerald Thomas
+Ernie Fosselius
+Jérôme Salle
+George Seaton
+Raj N. Sippy
+Deepak Shivdasani
+Anthony Waller
+Robert Luketic
+Cher
+Donald Cammell
+John Hillcoat
+Sam Mendes
+Dean Parisot
+Frank Oz
+Mike Johnson
+Vladimir Mavounia-kouka
+Charles Frend
+Richard Eyre
+Ken Russell
+Ted Newsom
+Phil Robinson
+Homi Adajania
+Yang Yun-ho
+Jean Yarbrough
+Lars von Trier
+Judd Apatow
+Sidney Lanfield
+James Bridges
+Eric Canuel
+Robert Mandel
+Jeong Jae-eun
+Azhagam Perumal
+Joseph L. Mankiewicz
+Larry Ferguson
+Arlene Sanford
+Dale Kase
+Raja Gosnell
+Tom Graeff
+Barbet Schroeder
+Alfonso Cuarón
+Bo Widerberg
+Orson Welles
+Michael Curtiz
+Lew Landers
+Peter Farrelly
+Jonas Cornell
+Bart Freundlich
+Richard Burton
+Robert Z. Leonard
+Andrei Kudinenko
+Roy Rowland
+Steve Rash
+Barry Levinson
+Alfred Hitchcock
+Sam Raimi
+Joseph Ruben
+Edward Dmytryk
+Louis J. Gasnier
+M.Raja
+Brian Levant
+Rob Cohen
+Ron Shelton
+Paul Verhoeven
+M. Night Shyamalan
+Larry Blamire
+Rob Hardy
+Alan Gibson
+Dario Argento
+Kevin Rodney Sullivan
+Morio Asaka
+Alan Rickman
+Savage Steve Holland
+Guru Dutt
+Stanisław Bareja
+Jay Lee
+Paul Flaherty
+Wenn V. Deramas
+John Woo
+Hayao Miyazaki
+Curtis Harrington
+Cullen Blaine
+Satish Kaushik
+Eric Red
+Lloyd Kaufman
+Tom McLoughlin
+Gene Quintano
+Reginald Hudlin
+Louis Malle
+Kenneth Branagh
+Roman Polanski
+John Duigan
+Brian Yuzna
+Mario Russo
+Mukul S. Anand
+Harmony Korine
+Mario Van Peebles
+Ovidio G. Assonitis
+Terence Fisher
+Ted Demme
+Kathryn Bigelow
+Blake Edwards
+Damian Lee
+John Landis
+Tapan Sinha
+Michael Powell
+Steven Brill
+Joshua Meador
+John Stockwell
+Jaume Collet-Serra
+Warren Coleman
+Glen Morgan
+Bryan Spicer
+Frank Pierson
+Jun Fukuda
+Anselmo Duarte
+Patricia Rozema
+Robert K. Weiss
+Jordan Susman
+Bud S. Smith
+Fritz Kiersch
+Tanit Jitnukul
+Michael Miller
+Jean-Pierre Melville
+Jacques Becker
+Toby Shelton
+Jane Campion
+Uli Edel
+Henry Selick
+Charles Crichton
+Bruno Nuytten
+Griffin Dunne
+Jack Nicholson
+Govind Nihalani
+Niki Caro
+Yoon Je-kyoon
+Robert Zemeckis
+Jerry Paris
+Jim Wynorski
+Susan Stroman
+Luciano Lucignani
+Ted Nicolaou
+Jack Cardiff
+John Whitesell
+Sidney J. Furie
+Christopher Leitch
+Brad McGann
+Nick Castle
+Nadia Tass
+Michael Winner
+Nick Gomez
+Yuen Woo-ping
+Josh Gilbert
+Lamont Johnson
+Charles M. Schulz
+Leonard Nimoy
+Jules White
+Roger Michell
+Mustan Burmawalla
+Mark Brown
+Hrishikesh Mukherjee
+Paul Leni
+John G. Avildsen
+John Irvin
+Jack Arnold
+Francine McDougall
+Paul McGuigan
+Aureliano Luppi
+Sergio Corbucci
+Majid Majidi
+John Schultz
+Terry Jones
+Fred Zinnemann
+P. Vasu
+Luigi Comencini
+Wisit Sasanatieng
+David Frankel
+Tony Scott
+Harold Ramis
+Joe Chappelle
+Gary Davis
+Bill Murray
+Tony Gilroy
+Ivan Sen
+Lewis R. Foster
+Fedor Bondarchuk
+Paul Brizzi
+Jean de Segonzac
+Sébastien Dumesnil
+Bob Radler
+Peter Sasdy
+Nanni Moretti
+Hironobu Sakaguchi
+Robert Hamer
+Richard C. Sarafian
+Adrian Lyne
+Robert King
+John Carpenter
+André Cayatte
+Jean-Marie Poiré
+Robert Mulligan
+Steve Carpenter
+Josh Oreck
+William Dear
+Gene Kelly
+Sacha Guitry
+Joseph Kane
+Joyce Chopra
+Michael Gottlieb
+Chris Menges
+Raj Khosla
+Dan Ireland
+James D. Stern
+Andy Warhol
+Norman Jewison
+Kelli Herd
+Michael Polish
+Deepak Kumaran Menon
+Mikio Naruse
+David Michener
+Gianni Amelio
+Scott Spiegel
+Valerie Faris
+Reginald Le Borg
+Brian De Palma
+Rosshan Andrrews
+Gore Verbinski
+Alberto Lattuada
+John Frankenheimer
+Puri Jagannadh
+Curtis Hanson
+Reverend Gary Davis
+Justin Kerrigan
+Craig Brewer
+Masami Ōbari
+Nobuhiro Suwa
+Bill L. Norton
+Daniela Thomas
+Ellory Elkayem
+Bob Rafelson
+Juan José Ortega
+Leslie Goodwins
+Tom DiCillo
+Santiago Segura
+Mathieu Kassovitz
+John Payson
+Juan Padrón
+Horst Königstein
+Richard Rush
+Emile Ardolino
+Jason Paul Collum
+Alexander Payne
+Roy William Neill
+K. Balachander
+James Merendino
+James Glenn Dudelson
+René Clément
+James Hill
+George Marshall
+Dunia Ayaso
+Peter Hyams
+Rupert Wainwright
+Michael Ritchie
+Ira Sachs
+Joseph Hardy
+Hendel Butoy
+Jonathan Dayton
+Martin Campbell
+Paolo Virzì
+Edgar Wright
+J.J. Abrams
+Gautham Menon
+Ron Clements
+David Koepp
+Roberto Benigni
+Riccardo Freda
+Victor Salva
+Ron Pitts
+John Sayles
+Víctor García
+Miguel Coyula
+Yasujirō Ozu
+Kim Ui-seok
+Raoul Walsh
+Roland Joffé
+Russell Rouse
+Joe Johnston
+Andy Fickman
+Wes Anderson
+Masaaki Tezuka
+Michael Relph
+Kevin Billington
+Quentin Lee
+Robert Duvall
+Zhang Yuan
+William Heins
+Philip Ridley
+Daniel Burman
+Carl Reiner
+Roger Avary
+Preston Sturges
+Nick Love
+Stephen Frears
+Alexander Sokurov
+Shaji Kailas
+Vicente Aranda
+Norm Ferguson
+Carlos Diegues
+Rob LaDuca
+Kevin Yagher
+Jack Aldworth
+Paul Levine
+George W. Hill
+Laurence Olivier
+George Waggner
+John Lafia
+E. Elias Merhige
+Spike Jonze
+William A. Wellman
+Dani Levy
+Yvette Kaplan
+Neal Jimenez
+David W. Allen
+Martin Brest
+István Szabó
+David Wechter
+Albert Brooks
+James Cruze
+Rochus Gliese
+George Huang
+Andrew Davis
+Jean Renoir
+Jack Conway
+Brett Leonard
+James Keach
+Gordon Douglas
+Mysskin
+Takashi Yamazaki
+Yun Jae-yeon
+Tim Hill
+John Friend
+Yongyoot Thongkongtoon
+Dwight H. Little
+Gérard Pirès
+Tony Martin
+Christopher Nielsen
+Sally Potter
+George Cukor
+Mac Alejandre
+Fritz Lang
+Vera Fogwill
+Lizzie Borden
+Susan Seidelman
+Ivan Reitman
+Vsevolod Pudovkin
+Jonathan Nossiter
+Melanie Mayron
+Taylor Hackford
+Will Meugniot
+Werner Herzog
+Max Ophüls
+Lloyd Bacon
+Joseph Losey
+Jon Amiel
+Brett Ratner
+George Pal
+Irwin Allen
+Perce Pearce
+Ted Post
+Barbra Streisand
+Umberto Lenzi
+Jake Kasdan
+Kevin Allen
+Francis Ford Coppola
+Paul Schrader
+Marcelo Piñeyro
+Burt Medall
+George Clooney
+Antonio Serrano
+Eddie Murphy
+Robert Radler
+Teddy Chan
+Dean Hamilton
+Charles Sellier
+Mehmood Ali
+Robert Stevenson
+Slobodan Šijan
+Mike Binder
+John Cassavetes
+Sidney Poitier
+Scott Silver
+John Ford
+Wim Wenders
+Adam McKay
+S. Gopala Reddy
+Judy Morris
+Alan Hume
+Walter Salles
+Hugh Laurie
+Irvin Yeaworth
+Neil LaBute
+Joe Wehinger
+Matt Hill
+Bob Kellett
+Mike Southon
+Kovelamudi Raghavendra Rao
+Charles Walters
+Coralie Trinh Thi
+Chen Shi-Zheng
+Siva Kumar
+Jamie Blanks
+Jim Sheridan
+Edgar G. Ulmer
+David Lynch
+Ishirō Honda
+Boopathy Pandian
+Ashutosh Gowariker
+Carl Theodor Dreyer
+Michael Hoffman
+François Weyergans
+Mark Dindal
+Paul Dinello
+James L. Brooks
+Gus Van Sant
+Alan Zaslove
+Srđan Dragojević
+Jonas Vaitkus
+Kim Cheong-gi
+Mario Monicelli
+Ol Parker
+Mark L. Lester
+Gregory J. Read
+Ján Kadár
+Ravi Chopra
+A. Karunakaran
+Cirio H. Santiago
+Paul Auster
+Juzo Itami
+Andrew Niccol
+Robert C. Ramirez
+Nasir Hussain
+Andrew Swant
+David Carson
+Robert Rossen
+David Michael Latt
+Mitch Rochon
+William Friedkin
+Harold Young
+Nicolas Winding Refn
+Gene Saks
+Val Guest
+Howard Franklin
+Cyril Gardner
+Wolfgang Petersen
+Joel Gallen
+Hideo Nakata
+Michael Nankin
+Anthony Minghella
+Patrick Lussier
+Hrafn Gunnlaugsson
+Marc Rothemund
+Jay Chandrasekhar
+Melvin Frank
+George A. Romero
+R.D. Robb
